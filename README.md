@@ -4,8 +4,26 @@ _This is a template for curriculum repositories in CWRU communications courses. 
 ### Information Table
 _Fill out this table._
 
+| Parameter | |
+| -------- | ------- |
+| DOI  | n/a    |
+| Concept | _list concepts covered_|
+| Lesson Categories | reading, problem set, software, lab, demo, VR, ham, PSWS _(delete those which do not apply.)_|
+| Cost    | $0    |
+| Bill of Materials    | _link to BOM file, if relevant; otherwise, list N/A_    |
+| Relevant ABET Milestones    |  |
+| Relevant FCC Exam Modules/Questions    |  |
+
 ## Description
 _Comment out the version that does not apply._
+
+## Authorship
+_Prepare a [CRediT Author Statement](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) describing the authorship of the work._
+
+**Author:** Conceptualization, Ideas, Methodology, Software, Validation, Formal Analysis, Investigation, Resources, Data Curation, Writing - Original Draft, Writing - Review & Editing, Visualization, Supervision, Project administration, Funding acquisition
+
+## Funding
+_This work is supported by the CWRU Dept. of Electrical Engineering._
 
 ## Licensing
 [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
