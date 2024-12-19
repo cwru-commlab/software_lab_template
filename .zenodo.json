@@ -1,0 +1,18 @@
+{
+    "keywords": [
+	"amateur radio",
+	"curriculum"
+    ],
+    "creators": [
+      {
+        "affiliation": "Space Science Institute",
+        "name": "Kristina Collins",
+        "orcid": "0000-0002-3816-1948"
+      },
+      {
+	"orcid": "0000-0003-2663-8179", 
+        "affiliation": "Case Western Reserve University", 
+        "name": "David Kazdan"
+      },
+    ]
+}
