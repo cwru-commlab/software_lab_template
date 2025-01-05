@@ -15,7 +15,7 @@ _Fill out this table._
 | Relevant FCC Exam Modules/Questions    |  |
 
 ## Description
-_Comment out the version that does not apply._
+_The format of this portion will vary depending on the type of lesson._
 
 ## Authorship
 _Prepare a [CRediT Author Statement](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) describing the authorship of the work._
