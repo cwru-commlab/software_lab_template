@@ -18,12 +18,27 @@ _Fill out this table._
 _The format of this portion will vary depending on the type of lesson._
 
 ## Authorship
-_Prepare a [CRediT Author Statement](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) describing the authorship of the work._
+_Prepare a table describing the authorship of the work using the [CRediT](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) system._
 
-**Author:** Conceptualization, Ideas, Methodology, Software, Validation, Formal Analysis, Investigation, Resources, Data Curation, Writing - Original Draft, Writing - Review & Editing, Visualization, Supervision, Project administration, Funding acquisition
+| Term                       | Authorship |
+|----------------------------|------------|
+| Conceptualization          |  Kristina Collins <a href="https://orcid.org/0000-0002-3816-1948"><img width="20px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt=""/></a>,  David Kazdan <a href="https://orcid.org/0000-0003-2663-8179"><img width="20px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt=""/>|
+| Methodology                |  Kristina Collins <a href="https://orcid.org/0000-0002-3816-1948"><img width="20px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt=""/></a>          |
+| Software                   | N/A           |
+| Validation                 | N/A        |
+| Formal analysis            | N/A        |
+| Investigation              | N/A        |
+| Resources                  | N/A        |
+| Data Curation              | N/A        |
+| Writing - Original Draft   | Kristina Collins <a href="https://orcid.org/0000-0002-3816-1948"><img width="20px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt=""/></a>       |
+| Writing - Review & Editing | N/A         |
+| Visualization              | N/A          |
+| Supervision                | N/A        |
+| Project administration     | N/A        |
+| Funding acquisition        | N/A         |
 
 ## Funding
-_This work is supported by the CWRU Dept. of Electrical Engineering._
+_This work is supported by the CWRU Dept. of Electrical Engineering and the Case Amateur Radio Club W8EDU._
 
 ## Licensing
 [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
