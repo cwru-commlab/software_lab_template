@@ -20,7 +20,7 @@ _Fill out this table._
 _The format of this portion will vary depending on the type of lesson._
 
 ## Authorship
-_Prepare a table describing the authorship of the work using the [CRediT](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) system._
+_Prepare a table describing the authorship of the work using the [CRediT](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) system. Remember to edit .zenodo.json as well!_
 
 | Term                       | Authorship |
 |----------------------------|------------|
@@ -53,3 +53,7 @@ This work is licensed under a
 [cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
 [cc-by-nd-image]: https://licensebuttons.net/l/by-nd/4.0/88x31.png
 [cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
+
+## Implementation Record
+_List instances where this module has been used. For example:_ 
+ - _Case Western Reserve University, EECS 351: Engineering Communications. Spring 2018. Prof. David Kazdan. Enrollment 31._
