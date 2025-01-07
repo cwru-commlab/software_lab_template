@@ -1,5 +1,5 @@
-# curriculum_template
-_This is a template for curriculum repositories in CWRU communications courses. Replace the italicized text as described. Here, give a brief description of what this module is for._
+# software_lab_template
+_This is a template for software lab repositories in CWRU communications courses. Replace the italicized text as described. Here, give a brief description of what this module is for._
 
 ### Information Table
 _Fill out this table._
