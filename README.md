@@ -1,5 +1,5 @@
 # software_lab_template
-_This is a template for software lab repositories in CWRU communications courses. Replace the italicized text as described. Here, give a brief description of what this module is for._
+_This is a template for software lab repositories in CWRU communications courses. These labs may involve hardware, but are mostly based around software simulations or software-defined radio. Replace the italicized text as described. Here, give a brief description of what this module is for._
 
 ### Information Table
 _Fill out this table._
