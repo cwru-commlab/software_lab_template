@@ -9,9 +9,10 @@ _Fill out this table._
 | DOI  | n/a    |
 | Concept | _list concepts covered_|
 | Lesson Categories | reading, problem set, software, lab, demo, VR, ham, PSWS _(delete those which do not apply.)_|
+| Prerequisite Modules    | _links to any modules that must be completed before beginning this module; otherwise, list N/A_ |
 | Cost    | $0    |
 | Bill of Materials    | _link to BOM file, if relevant; otherwise, list N/A_    |
-| License Required    | n/a _(e.g., [Technician](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service))_ |
+| License Required    |  _(e.g., [Technician](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)); otherwise, list N/A_ |
 | Relevant ABET Milestones    |  |
 | Relevant FCC Exam Modules/Questions    |  |
 
