@@ -57,3 +57,5 @@ This work is licensed under a
 ## Implementation Record
 _List instances where this module has been used. For example:_ 
  - _Case Western Reserve University, EECS 351: Engineering Communications. Spring 2018. Prof. David Kazdan. Enrollment 31._
+
+_To have your implementation added to this list, file an Implementation Report ticket under "Issues" at the top of this page._
