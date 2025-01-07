@@ -9,9 +9,10 @@ _Fill out this table._
 | DOI  | n/a    |
 | Concept | _list concepts covered_|
 | Lesson Categories | reading, problem set, software, lab, demo, VR, ham, PSWS _(delete those which do not apply.)_|
+| Prerequisite Modules    | _links to any modules that must be completed before beginning this module; otherwise, list N/A_ |
 | Cost    | $0    |
 | Bill of Materials    | _link to BOM file, if relevant; otherwise, list N/A_    |
-| License Required    | n/a _(e.g., [Technician](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service))_ |
+| License Required    |  _(e.g., [Technician](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)); otherwise, list N/A_ |
 | Relevant ABET Milestones    |  |
 | Relevant FCC Exam Modules/Questions    |  |
 
@@ -19,7 +20,7 @@ _Fill out this table._
 _The format of this portion will vary depending on the type of lesson._
 
 ## Authorship
-_Prepare a table describing the authorship of the work using the [CRediT](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) system._
+_Prepare a table describing the authorship of the work using the [CRediT](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement) system. Remember to edit .zenodo.json as well!_
 
 | Term                       | Authorship |
 |----------------------------|------------|
@@ -52,3 +53,9 @@ This work is licensed under a
 [cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
 [cc-by-nd-image]: https://licensebuttons.net/l/by-nd/4.0/88x31.png
 [cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
+
+## Implementation Record
+_List instances where this module has been used. For example:_ 
+ - _Case Western Reserve University, EECS 351: Engineering Communications. Spring 2018. Prof. David Kazdan. Enrollment 31._
+
+_To have your implementation added to this list, file an Implementation Report ticket under "Issues" at the top of this page._
